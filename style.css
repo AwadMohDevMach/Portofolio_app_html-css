@@ -100,6 +100,17 @@ header{
     font-weight: 800;
     margin-bottom: 30px;
 }
+
+.shahd{
+    width: 400px;
+    border-radius: 50%;
+    transition: all 0.5s;
+    position: relative;
+    left: 100px;
+}
+.shahd:hover{
+   transform: scale(1.1);
+}
 /*دا الجزء الخاص بالخدمات  */
 .contant{
     display: flex;
